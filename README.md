@@ -12,4 +12,4 @@ At the end of each class, this repo is going to be updated.
 
 ## Issues/Errors
 
-if you find any issue or wrong information, please feel free to [conatct us](info@splufic.com)
+if you find any issue or wrong information, please feel free to conatct us at training@splufic.com
