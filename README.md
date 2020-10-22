@@ -1,5 +1,5 @@
 # Python Training (Online) Cohort One
-	This is our first cohort of the Python training program of Splufic Automation Systems Ltd.
+	This is our first cohort of the Python training online program of Splufic Automation Systems Ltd.
 
 
 ## Purpose 
